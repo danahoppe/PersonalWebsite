@@ -2,7 +2,7 @@
     $firstname = $_POST['fname'];
     $lastname = $_POST['lname'];
     $email = $_POST['email'];
-    $message = $_POST['message'];
+    $message = $_POST['subject'];
 
     $email_from = 'danafhoppe@gmail.com';
 
