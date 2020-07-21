@@ -21,10 +21,22 @@ body {
     padding: 40px;
 }
 
+.description {
+    text-align: justify;
+    font-size: large;
+    color: black;
+    padding: 40px;
+    font-style: italic;
+}
+
 .fun {
     position: relative;;
 }
 
+.overview {
+    display: flex;
+    padding: 40px;
+}
 
 .highlights {
     display: flex;
